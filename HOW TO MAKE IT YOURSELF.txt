@@ -6,8 +6,8 @@ Google portable apps java download
 I got mine from here
 https://sourceforge.net/projects/portableapps/files/Java%20Portable/
 
-I picked 
-jPortable_8_Update_101.paf.exe    2016-07-20    40.4 MB
+I pickedÂ 
+jPortable_8_Update_101.paf.exeÂ Â  Â 2016-07-20Â Â  Â 40.4 MB
 
 Main idea here is that you need to pick one that is around 40-50 MB
 I mean if you see some with 900KB then this is just online installer
@@ -18,7 +18,7 @@ It's like buying 3,5 ghz 16 gb ram PC to play solitaire
 
 
 Next is Bat to Exe converter 3.2
-You can skip this part if you dont need .exe file
+You can skip this part if you don't need .exe file
 
 I got mine from here
 https://www.portablefreeware.com/?id=1660
@@ -125,7 +125,7 @@ it will extract a folder into which you run that java installer
 So just click ok ok ok next next next and confirm
 
 You will see now folder named CommonFiles open it and inside will be Java folder
-Cut that Java folder and paste it into 
+Cut that Java folder and paste it intoÂ 
 Minicraft Plus Portable\App
 
 And its all done
