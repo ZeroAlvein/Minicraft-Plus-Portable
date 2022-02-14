@@ -3,11 +3,17 @@ Portable Launcher for Minicraft
 
 All you need from here is download Minicraft Plus Portable.zip
 
+Here is version with all files raady to use
+You just need to download .jar file for it
+https://www.mediafire.com/file/7snjy873j87atjf/Minicraft_Plus_Portable.zip/file
+
 Now download Minicraft .jar and rename it to minicraft.jar and place it inside App folder
 From here https://playminicraft.com
 Or here https://github.com/MinicraftPlus/minicraft-plus-revived/releases
 
-Lastly you need portable Java
+
+If not then from this github you need Minicraft Plus Portable.zip which does not include Java
+So lets get portable version of Java
 
 I got mine from here
 https://sourceforge.net/projects/portableapps/files/Java%20Portable/
@@ -31,6 +37,6 @@ You will see now folder named CommonFiles open it and inside will be Java folder
 Cut that Java folder and paste it into 
 Minicraft Plus Portable\App
 
-And its all done
+And it's all done
 
 Now just run game via Minicraft Plus.bat or Minicraft Plus.exe from Minicraft Plus Portable folder
